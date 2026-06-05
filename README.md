@@ -2,7 +2,7 @@
 
 ## MERN Stack Developer
 
-Self-taught MERN Stack Developer passionate about building modern web and mobile applications using React, Next.js, TypeScript, Express.js, MongoDB, and React Native.
+Self-taught Full Stack Developer  passionate about building modern web and mobile applications using React, Next.js, TypeScript, Express.js, MongoDB, and React Native.
 
 Currently transitioning into full-time software development and actively building real-world projects.
 
@@ -39,7 +39,6 @@ Currently transitioning into full-time software development and actively buildin
 - Git
 - GitHub
 - VS Code
-- Postman
 - Vercel
 - Render
 
