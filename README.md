@@ -1,6 +1,6 @@
 # Hi, I'm Mustafa Raza Khan 👋
 
-## MERN Stack Developer
+## JUNIOR MERN Stack Developer
 
 Self-taught Full Stack Developer  passionate about building modern web and mobile applications using React, Next.js, TypeScript, Express.js, MongoDB, and React Native.
 
